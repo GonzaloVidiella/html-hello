@@ -1,0 +1,11 @@
+body {background-color: grey;}
+.cuerpo {background-color: white;
+width: 600px;
+margin: auto;}
+body h1 {background-color: white;}
+div.cuerpo img {width: 600px;}
+div.encabezado h1 {width: 600px;
+margin: auto;
+padding-bottom: 20px;}
+div.cuadro-1 {display: flex;
+justify-content: space-between;}
